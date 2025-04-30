@@ -96,3 +96,6 @@ Thumbs.db
 # ENV/
 # env.bak/
 # venv.bak/
+
+# Specific files to ignore
+metadata/generate_insignia_metadata.js
