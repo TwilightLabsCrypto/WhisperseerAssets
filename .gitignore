@@ -1,0 +1,98 @@
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Folder view configuration files
+._*
+._*
+
+# Thumbnail cache files
+._*
+Thumbs.db
+
+# Files that might appear in the root of a volume
+.DocumentRevisions-V100
+.fseventsd
+.Spotlight-V100
+.TemporaryItems
+.Trashes
+.VolumeIcon.icns
+.com.apple.timemachine.donotpresent
+
+# Directories potentially created on external network volumes
+.apdisk
+
+# Optional: PyCharm files (uncomment if you use PyCharm)
+# .idea/
+
+# Optional: VSCode files (uncomment if you use VSCode)
+# .vscode/
+
+# Optional: Python specific files (uncomment if this is a Python project)
+# __pycache__/
+# *.pyc
+# *.pyo
+# *.pyd
+# .Python
+# build/
+# develop-eggs/
+# dist/
+# downloads/
+# eggs/
+# .eggs/
+# lib/
+# lib64/
+# parts/
+# sdist/
+# var/
+# wheels/
+# share/python-wheels/
+# *.egg-info/
+# .installed.cfg
+# *.egg
+# MANIFEST
+# *.manifest
+# *.spec
+# pip-log.txt
+# pip-delete-this-directory.txt
+# htmlcov/
+# .tox/
+# .nox/
+# .coverage
+# .coverage.*
+# .cache
+# nosetests.xml
+# coverage.xml
+# *.cover
+# *.py,cover
+# .hypothesis/
+# .pytest_cache/
+# cover/
+# *.mo
+# *.pot
+# *.log
+# local_settings.py
+# db.sqlite3
+# db.sqlite3-journal
+# instance/
+# .webassets-cache
+# .scrapy
+# docs/_build/
+# .pybuilder/
+# target/
+# .ipynb_checkpoints
+# profile_default/
+# ipython_config.py
+# *.pkl
+# *.ipynb
+# celerybeat-schedule
+# celerybeat.pid
+# *.sage.py
+# .env
+# .venv
+# env/
+# venv/
+# ENV/
+# env.bak/
+# venv.bak/
