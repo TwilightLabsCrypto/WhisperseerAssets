@@ -100,3 +100,4 @@ Thumbs.db
 # Specific files to ignore
 metadata/generate_insignia_metadata.js
 FAQ.md
+v2/metadata/generate_insignia_metadata.js
